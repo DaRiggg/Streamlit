@@ -7,3 +7,4 @@ requests==2.28.1
 chromedriver-autoinstaller==0.2.2
 transformers==4.24.0
 torch==1.12.1
+selenium==4.10.0
